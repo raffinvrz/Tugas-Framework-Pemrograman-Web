@@ -12,6 +12,10 @@ use Illuminate\Support\Facades\Route;
 | be assigned to the "web" middleware group. Make something great!
 |
 */
+<<<<<<< HEAD
+=======
+
+>>>>>>> 658f708551c98e63468fe5ae079d875e49c4573b
 // KONSEP 1: BASIC ROUTING & KONSEP 4: NAMED ROUTE
 // Route dasar untuk halaman utama. Diberi nama 'home' agar mudah dipanggil.
 Route::get('/', function () {
